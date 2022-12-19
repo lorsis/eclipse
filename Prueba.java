@@ -5,6 +5,7 @@ public class Prueba {
 		System.out.println("Lorena");
 		
 		String nombre = "Lorena";
+		
 		System.out.println(nombre);
 
 	}
